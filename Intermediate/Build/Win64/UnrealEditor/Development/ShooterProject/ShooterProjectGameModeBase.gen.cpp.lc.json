@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\admin\\desktop\\unrealprojects\\shooterproject\\intermediate\\build\\win64\\unrealeditor\\inc\\shooterproject\\shooterprojectgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\desktop\\unrealprojects\\shooterproject\\intermediate\\build\\win64\\shooterprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\desktop\\unrealprojects\\shooterproject\\intermediate\\build\\win64\\unrealeditor\\development\\shooterproject\\definitions.shooterproject.h",
+            "c:\\users\\admin\\desktop\\unrealprojects\\shooterproject\\source\\shooterproject\\shooterprojectgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\admin\\desktop\\unrealprojects\\shooterproject\\intermediate\\build\\win64\\unrealeditor\\inc\\shooterproject\\shooterprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShooterProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\ShooterProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\UnrealEditor\Development\ShooterProject\ShooterProject.cpp.obj"
+"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\UnrealEditor\Development\ShooterProject\ShooterProjectGameModeBase.cpp.obj"
+"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\UnrealEditor\Development\ShooterProject\ShooterProject.init.gen.cpp.obj"
+"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\UnrealEditor\Development\ShooterProject\ShooterProjectGameModeBase.gen.cpp.obj"
+"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\UnrealEditor\Development\ShooterProject\Default.rc2.res"
+/OUT:"C:\Users\ADMIN\Desktop\UnrealProjects\ShooterProject\Intermediate\Build\Win64\UnrealEditor\Development\ShooterProject\UnrealEditor-ShooterProject.lib"
